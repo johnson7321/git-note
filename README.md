@@ -8,3 +8,4 @@ git commit
 git diff
 git commit -a
 git lg
+\n
